@@ -14,7 +14,7 @@ public class PruebaGit {
         System.out.println("Hello World!");
         
         for(int i = 0; i < 2; i++){
-          System.out.println("Hola Mundo");
+          System.out.println("Hola Mundo!");
         }
     }
 }
